@@ -1,0 +1,151 @@
+customer_id,name,email,city,signup_date
+C001,Riya Kulkarni,Riya.Kulkarni1@Mail.com,Delhi,2025-09-24
+C002,Vikram Rao,Vikram.Rao2@Mail.com,surat,2025-06-18
+C003,Rahul Singh,Rahul.Singh3@Mail.com,Mumbai,2025-06-11
+C004,Dev Rao,Dev.Rao4@Mail.com,Goa,2025-09-21
+C005,Dev Khan,Dev.Khan5@Mail.com,nashik,2025-08-06
+C006,Anjali Dsouza,Anjali.Dsouza6@Mail.com,mumbai,2025-07-23
+C007,Riya Patil,Riya.Patil7@Mail.com,Pune,2025-08-28
+C008,Pooja Mehta,Pooja.Mehta8@Mail.com,Nashik,2025-07-16
+C009,Neha Mehta,Neha.Mehta9@Mail.com,Pune,2025-06-16
+C010,Riya Verma,Riya.Verma10@Mail.com,Mumbai,2025-08-27
+C011,Tina Singh,Tina.Singh11@Mail.com,Nashik,2025-06-22
+C012,Rohan Dsouza,Rohan.Dsouza12@Mail.com,Surat,2025-08-06
+C013,Pooja Khan,Pooja.Khan13@Mail.com,Mumbai,2025-09-22
+C014,Vikram Khan,Vikram.Khan14@Mail.com,pune,2025-09-21
+C015,Pooja Khan,Pooja.Khan15@Mail.com,pune,2025-07-14
+C016,Vikram Kulkarni,Vikram.Kulkarni16@Mail.com,Nashik,2025-09-02
+C017,Tina Jain,Tina.Jain17@Mail.com,Surat,2025-08-13
+C018,Riya Patil,Riya.Patil18@Mail.com,SURAT ,2025-07-28
+C019,Anjali Jain,Anjali.Jain19@Mail.com,Goa,2025-06-17
+C020,Dev Shah,Dev.Shah20@Mail.com,Surat,2025-07-16
+C021,Tina Patil,Tina.Patil21@Mail.com,Pune,2025-08-18
+C022,Sana Shah,Sana.Shah22@Mail.com,Mumbai,2025-09-27
+C023,Neha Verma,Neha.Verma23@Mail.com,Nashik,2025-06-01
+C024,Rohan Verma,Rohan.Verma24@Mail.com,Goa,2025-08-26
+C025,Vikram Dsouza,Vikram.Dsouza25@Mail.com,Goa,2025-09-10
+C026,Rahul Khan,Rahul.Khan26@Mail.com,Pune,2025-09-23
+C027,Sana Verma,Sana.Verma27@Mail.com,Pune,2025-07-21
+C028,Vikram Patil,Vikram.Patil28@Mail.com,Mumbai,2025-06-15
+C029,Tina Singh,Tina.Singh29@Mail.com,MUMBAI ,2025-07-03
+C030,Dev Mehta,Dev.Mehta30@Mail.com,NASHIK ,2025-09-11
+C031,Dev Singh,Dev.Singh31@Mail.com,Nashik,2025-09-14
+C032,Neha Patil,Neha.Patil32@Mail.com,Delhi,2025-08-16
+C033,Riya Khan,Riya.Khan33@Mail.com,pune,2025-06-15
+C034,Tina Dsouza,Tina.Dsouza34@Mail.com,surat,2025-06-15
+C035,Anjali Khan,Anjali.Khan35@Mail.com,Delhi,2025-07-28
+C036,Amit Khan,Amit.Khan36@Mail.com,surat,2025-08-10
+C037,Anjali Patil,Anjali.Patil37@Mail.com,Goa,2025-06-04
+C038,Vikram Jain,Vikram.Jain38@Mail.com,Pune,2025-08-22
+C039,Karan Rao,Karan.Rao39@Mail.com,pune,2025-08-05
+C040,Rahul Jain,Rahul.Jain40@Mail.com,Goa,2025-06-02
+C041,Riya Dsouza,Riya.Dsouza41@Mail.com,NASHIK ,2025-06-12
+C042,Vikram Dsouza,Vikram.Dsouza42@Mail.com,Pune,2025-07-25
+C043,Pooja Dsouza,Pooja.Dsouza43@Mail.com,NASHIK ,2025-08-26
+C044,Sana Jain,Sana.Jain44@Mail.com,nashik,2025-09-08
+C045,Amit Singh,Amit.Singh45@Mail.com,goa,2025-07-22
+C046,Rohan Shah,Rohan.Shah46@Mail.com,pune,2025-07-06
+C047,Dev Jain,Dev.Jain47@Mail.com,GOA ,2025-09-25
+C048,Anjali Patil,Anjali.Patil48@Mail.com,goa,2025-07-26
+C049,Pooja Jain,Pooja.Jain49@Mail.com,Pune,2025-07-08
+C050,Vikram Singh,Vikram.Singh50@Mail.com,Mumbai,2025-07-24
+C051,Vikram Jain,Vikram.Jain51@Mail.com,Nashik,2025-06-02
+C052,Neha Singh,Neha.Singh52@Mail.com,Mumbai,2025-07-07
+C053,Sana Khan,Sana.Khan53@Mail.com,Pune,2025-08-01
+C054,Dev Dsouza,Dev.Dsouza54@Mail.com,Delhi,2025-09-19
+C055,Dev Khan,Dev.Khan55@Mail.com,Goa,2025-08-28
+C056,Amit Rao,Amit.Rao56@Mail.com,goa,2025-09-02
+C057,Tina Verma,Tina.Verma57@Mail.com,MUMBAI ,2025-08-05
+C058,Riya Singh,Riya.Singh58@Mail.com,GOA ,2025-06-14
+C059,Pooja Rao,Pooja.Rao59@Mail.com,MUMBAI ,2025-07-17
+C060,Pooja Verma,Pooja.Verma60@Mail.com,Surat,2025-09-28
+C061,Rohan Rao,Rohan.Rao61@Mail.com,Goa,2025-06-06
+C062,Pooja Verma,Pooja.Verma62@Mail.com,goa,2025-09-14
+C063,Sana Verma,Sana.Verma63@Mail.com,Pune,2025-08-22
+C064,Rohan Khan,Rohan.Khan64@Mail.com,Goa,2025-07-05
+C065,Sana Verma,Sana.Verma65@Mail.com,mumbai,2025-09-02
+C066,Karan Rao,Karan.Rao66@Mail.com,Nashik,2025-09-09
+C067,Anjali Shah,Anjali.Shah67@Mail.com,delhi,2025-06-06
+C068,Sana Shah,Sana.Shah68@Mail.com,Pune,2025-06-13
+C069,Amit Khan,Amit.Khan69@Mail.com,mumbai,2025-08-19
+C070,Dev Singh,Dev.Singh70@Mail.com,Surat,2025-09-28
+C071,Vikram Patil,Vikram.Patil71@Mail.com,Delhi,2025-06-03
+C072,Neha Khan,Neha.Khan72@Mail.com,Nashik,2025-08-19
+C073,Dev Verma,Dev.Verma73@Mail.com,Delhi,2025-06-17
+C074,Riya Rao,Riya.Rao74@Mail.com,Delhi,2025-08-18
+C075,Pooja Verma,Pooja.Verma75@Mail.com,Goa,2025-08-14
+C076,Dev Jain,Dev.Jain76@Mail.com,Mumbai,2025-06-11
+C077,Karan Kulkarni,Karan.Kulkarni77@Mail.com,surat,2025-08-21
+C078,Neha Mehta,Neha.Mehta78@Mail.com,Surat,2025-09-16
+C079,Tina Mehta,Tina.Mehta79@Mail.com,Delhi,2025-09-12
+C080,Pooja Patil,Pooja.Patil80@Mail.com,Pune,2025-06-04
+C081,Rohan Khan,Rohan.Khan81@Mail.com,Mumbai,2025-06-30
+C082,Dev Kulkarni,Dev.Kulkarni82@Mail.com,Goa,2025-06-29
+C083,Riya Shah,Riya.Shah83@Mail.com,Goa,2025-07-25
+C084,Vikram Verma,Vikram.Verma84@Mail.com,Pune,2025-06-18
+C085,Rahul Khan,Rahul.Khan85@Mail.com,mumbai,2025-09-11
+C086,Pooja Verma,Pooja.Verma86@Mail.com,Mumbai,2025-09-02
+C087,Riya Dsouza,Riya.Dsouza87@Mail.com,Mumbai,2025-09-06
+C088,Karan Khan,Karan.Khan88@Mail.com,SURAT ,2025-06-24
+C089,Vikram Jain,Vikram.Jain89@Mail.com,Goa,2025-06-02
+C090,Vikram Dsouza,Vikram.Dsouza90@Mail.com,Mumbai,2025-09-18
+C091,Dev Patil,Dev.Patil91@Mail.com,Surat,2025-07-05
+C092,Vikram Mehta,Vikram.Mehta92@Mail.com,Pune,2025-08-18
+C093,Anjali Shah,Anjali.Shah93@Mail.com,Delhi,2025-09-18
+C094,Sana Dsouza,Sana.Dsouza94@Mail.com,Nashik,2025-06-05
+C095,Anjali Dsouza,Anjali.Dsouza95@Mail.com,Surat,2025-06-01
+C096,Karan Shah,Karan.Shah96@Mail.com,Goa,2025-06-01
+C097,Neha Verma,Neha.Verma97@Mail.com,Mumbai,2025-06-19
+C098,Pooja Khan,Pooja.Khan98@Mail.com,Pune,2025-06-07
+C099,Rahul Verma,Rahul.Verma99@Mail.com,Pune,2025-09-07
+C100,Riya Shah,Riya.Shah100@Mail.com,Pune,2025-08-12
+C101,Vikram Patil,Vikram.Patil101@Mail.com,Goa,2025-09-26
+C102,Neha Khan,Neha.Khan102@Mail.com,Surat,2025-09-05
+C103,Vikram Patil,Vikram.Patil103@Mail.com,Pune,2025-09-24
+C104,Amit Jain,Amit.Jain104@Mail.com,Goa,2025-06-29
+C105,Vikram Dsouza,Vikram.Dsouza105@Mail.com,Delhi,2025-07-05
+C106,Vikram Patil,Vikram.Patil106@Mail.com,Nashik,2025-09-10
+C107,Vikram Dsouza,Vikram.Dsouza107@Mail.com,DELHI ,2025-06-30
+C108,Rahul Patil,Rahul.Patil108@Mail.com,Mumbai,2025-06-07
+C109,Dev Patil,Dev.Patil109@Mail.com,Goa,2025-08-20
+C110,Pooja Mehta,Pooja.Mehta110@Mail.com,mumbai,2025-09-05
+C111,Karan Verma,Karan.Verma111@Mail.com,Pune,2025-09-25
+C112,Vikram Patil,Vikram.Patil112@Mail.com,pune,2025-09-20
+C113,Tina Rao,Tina.Rao113@Mail.com,Pune,2025-06-15
+C114,Dev Singh,Dev.Singh114@Mail.com,mumbai,2025-09-01
+C115,Tina Singh,Tina.Singh115@Mail.com,Mumbai,2025-09-10
+C116,Tina Mehta,Tina.Mehta116@Mail.com,surat,2025-08-23
+C117,Amit Khan,Amit.Khan117@Mail.com,Goa,2025-09-07
+C118,Riya Jain,Riya.Jain118@Mail.com,Mumbai,2025-09-09
+C119,Neha Dsouza,Neha.Dsouza119@Mail.com,Pune,2025-07-24
+C120,Riya Mehta,Riya.Mehta120@Mail.com,Nashik,2025-06-05
+C121,Dev Rao,Dev.Rao121@Mail.com,Goa,2025-07-25
+C122,Pooja Shah,Pooja.Shah122@Mail.com,Surat,2025-06-25
+C123,Rahul Patil,Rahul.Patil123@Mail.com,Surat,2025-06-14
+C124,Dev Singh,Dev.Singh124@Mail.com,Nashik,2025-06-15
+C125,Anjali Khan,Anjali.Khan125@Mail.com,delhi,2025-08-23
+C126,Tina Khan,Tina.Khan126@Mail.com,Pune,2025-07-31
+C127,Amit Khan,Amit.Khan127@Mail.com,GOA ,2025-08-04
+C128,Vikram Verma,Vikram.Verma128@Mail.com,Surat,2025-08-29
+C129,Tina Shah,Tina.Shah129@Mail.com,Mumbai,2025-08-05
+C130,Rahul Shah,Rahul.Shah130@Mail.com,Surat,2025-08-15
+C131,Tina Rao,Tina.Rao131@Mail.com,Mumbai,2025-06-11
+C132,Tina Khan,Tina.Khan132@Mail.com,Surat,2025-09-11
+C133,Riya Dsouza,Riya.Dsouza133@Mail.com,Surat,2025-07-24
+C134,Tina Khan,Tina.Khan134@Mail.com,Mumbai,2025-06-19
+C135,Vikram Khan,Vikram.Khan135@Mail.com,Delhi,2025-09-06
+C136,Karan Singh,Karan.Singh136@Mail.com,Mumbai,2025-08-28
+C137,Rahul Patil,Rahul.Patil137@Mail.com,nashik,2025-06-07
+C138,Amit Mehta,Amit.Mehta138@Mail.com,goa,2025-06-24
+C139,Sana Mehta,Sana.Mehta139@Mail.com,mumbai,2025-06-02
+C140,Dev Khan,Dev.Khan140@Mail.com,Delhi,2025-07-03
+C141,Rohan Kulkarni,Rohan.Kulkarni141@Mail.com,Goa,2025-06-12
+C142,Neha Rao,Neha.Rao142@Mail.com,Pune,2025-08-25
+C143,Karan Singh,Karan.Singh143@Mail.com,Mumbai,2025-08-02
+C144,Sana Jain,Sana.Jain144@Mail.com,Delhi,2025-09-26
+C145,Rohan Mehta,Rohan.Mehta145@Mail.com,Nashik,2025-08-29
+C146,Anjali Mehta,Anjali.Mehta146@Mail.com,Nashik,2025-08-13
+C147,Amit Kulkarni,Amit.Kulkarni147@Mail.com,Pune,2025-08-01
+C148,Neha Khan,Neha.Khan148@Mail.com,Goa,2025-06-07
+C149,Vikram Rao,Vikram.Rao149@Mail.com,Nashik,2025-06-09
+C150,Amit Shah,Amit.Shah150@Mail.com,PUNE ,2025-08-13

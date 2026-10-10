@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+P01,Laptop,Electronics,55000
+P02,Smartphone,Electronics,22000
+P03,Headphones,Electronics,2500
+P04,Smart Watch,Electronics,6500
+P05,Mouse,Electronics,500
+P06,Keyboard,Electronics,1500
+P07,Office Chair,Furniture,3500
+P08,Study Desk,Furniture,9000
+P09,Bookshelf,Furniture,6000
+P10,Table Lamp,Furniture,900
+P11,Sofa,Furniture,25000
+P12,Notebook,Stationery,60
+P13,Pen Pack,Stationery,120
+P14,Backpack,Stationery,1200
+P15,Calculator,Stationery,850
+P16,Marker Set,Stationery,300
+P17,T-Shirt,Fashion,700
+P18,Jeans,Fashion,1800
+P19,Sneakers,Fashion,3200
+P20,Jacket,Fashion,4500
